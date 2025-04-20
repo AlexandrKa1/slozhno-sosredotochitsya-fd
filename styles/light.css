@@ -14,17 +14,17 @@
 
 @media (prefers-color-scheme: light) {
   :root {
-  --accent-color: #ff8dcb;
-  --main-bg-color: #fff1f7;
-  --main-bg-image: url("../images/cover-image-light.png");
-  --main-heading-color: #353430;
-  --main-text-color: #353430;
-  --menu-text-color: #353430;
-  --menu-hover-color: #32312d66;
-  --text-link-hover: #353430;
-  --article-text-color: #353430;
-  --header-title-color: #ffc2e6;
-  --footer-title-color: #ffc2e6;
-  --rec-display: none;
+    --accent-color: #ff8dcb;
+    --main-bg-color: #fff1f7;
+    --main-bg-image: url("../images/cover-image-light.png");
+    --main-heading-color: #353430;
+    --main-text-color: #353430;
+    --menu-text-color: #353430;
+    --menu-hover-color: #32312d66;
+    --text-link-hover: #353430;
+    --article-text-color: #353430;
+    --header-title-color: #ffc2e6;
+    --footer-title-color: #ffc2e6;
+    --rec-display: none;
   }
 }
