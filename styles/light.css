@@ -10,6 +10,7 @@
   --header-title-color: #ffc2e6;
   --footer-title-color: #ffc2e6;
   --rec-display: none;
+  --text-link-hover: #353430;
 }
 
 @media (prefers-color-scheme: light) {
